@@ -1,2 +1,3 @@
 nitrogen --restore
 picom -f &
+xset b off
